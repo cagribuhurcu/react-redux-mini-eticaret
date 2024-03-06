@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu proje, React, Redux Toolkit, Tailwind CSS ve FakeStoreAPI kullanılarak geliştirilmiş bir mini e-ticaret sitesidir. Kullanıcılar, farklı kategorilerdeki ürünleri listeleyebilir, ürünler arasında arama yapabilir, ürünleri artan veya azalan şekilde sıralayabilir ve sayfalama mantığıyla gezinebilirler. Ayrıca, kullanıcılar sepete ürün ekleyebilir, adet girip sepetten ürün silebilir ve toplam tutarı görebilirler.
+
+Bu proje, React'in güçlü bir bileşen tabanlı yapıyla, Redux Toolkit'in durum yönetimi için kullanılmasıyla, Tailwind CSS'in hızlı ve esnek tasarımıyla ve FakeStoreAPI'nin sahte verilerle birleştirilerek geliştirilmiştir. Bu kombinasyon, kullanıcı dostu bir arayüz sunarken aynı zamanda verimli bir şekilde çalışan bir e-ticaret deneyimi sağlar.
+
+Projenin özellikleri arasında:
+
+- Kategoriye göre ürün listeleme
+- Ürün arama
+- Ürünleri artan veya azalan şekilde sıralama
+- Sayfalama mantığıyla ürünlerin sayfalara ayrılması
+- Sepete ürün ekleme ve çıkarma
+- Ürün adeti girme ve sepetten ürün silme
+- Toplam tutarı görme gibi işlevler bulunmaktadır.
 
 ## Project Images
 ![Proje Ekran Görüntüsü-1](https://github.com/cagribuhurcu/react-redux-mini-eticaret/assets/104568356/d970eb99-ddc2-4f4b-addd-22f72616efbd)
