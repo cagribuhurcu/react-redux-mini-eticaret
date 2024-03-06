@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Images
+![Proje Ekran Görüntüsü-1](https://github.com/cagribuhurcu/react-redux-mini-eticaret/assets/104568356/d970eb99-ddc2-4f4b-addd-22f72616efbd)
+![Proje Ekran Görüntüsü-2](https://github.com/cagribuhurcu/react-redux-mini-eticaret/assets/104568356/88e4e5b1-edfd-44cc-a813-e0b13715294c)
+![Proje Ekran Görüntüsü-3](https://github.com/cagribuhurcu/react-redux-mini-eticaret/assets/104568356/a36a43cf-7e09-4614-b7c4-979523b9c934)
+![Proje Ekran Görüntüsü-4](https://github.com/cagribuhurcu/react-redux-mini-eticaret/assets/104568356/74a34cd6-4f40-4838-b203-ba3788310adf)
+
 ## Available Scripts
 
 In the project directory, you can run:
